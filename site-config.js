@@ -1,0 +1,1 @@
+// Add your public Cloudflare Turnstile site key here after creating a widget.\nwindow.WILLE_TURNSTILE_SITE_KEY = "";\n
