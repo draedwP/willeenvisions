@@ -1,6 +1,6 @@
 {
   "name": "willeenvisions",
-  "compatibility_date": "2026-11-21",
+  "compatibility_date": "2026-11-20",
   "main": "src/worker.js",
   "assets": {
     "directory": "./",
